@@ -1,0 +1,30 @@
+$red: rgb(230, 68, 72); /*red*/
+$cyan: rgb(48, 170, 179); /*cyan*/
+$lblue: rgb(137, 197, 199); /*lightblue*/
+$yellow: rgb(234, 178, 68); /*yellow*/
+$dblue: rgb(11, 53, 75); /*dark blue*/
+
+$white: rgb(256, 225, 223); /*white*/
+$grey: rgb(105, 108, 109); /*grey*/
+$dgrey: rgb(60, 58, 72); /*dark grey*/
+$black: rgb(36, 41, 44); /*black*/
+
+/*set 1 - red/yellow/dark grey*/
+$pri1: $red;
+$sec1: $yellow;
+$tert1: $dgrey;
+
+/*set 2 - cyan/red/black*/
+$pri2: $cyan;
+$sec2: $red;
+$tert2: $black;
+
+/*set 3 - lightblue/darkblue/grey*/
+$pri3: $lblue;
+$sec3: $dblue;
+$tert3: $grey;
+
+/*set 4 - yellow/red/white*/
+$pri4: $yellow;
+$sec4: $red;
+$tert4: $white;

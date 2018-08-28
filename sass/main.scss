@@ -1,0 +1,85 @@
+@import 'color';
+@import 'font';
+
+body {
+  width: 400px;
+  margin: auto;
+  background-color: #e64448;
+  font-family: $whitney;
+}
+
+header {
+  background-color: #fff;
+  padding-left: 5px;
+  font-family: $miso;
+}
+
+.logo {
+  width: 80%;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.bikes {
+  background-color: #e1e2df;
+  text-align: center;
+}
+
+.local {
+  display: block;
+  background-color: $pri4;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 5px;
+
+h1 {
+  color: $sec4;
+  font-family: $miso;
+}
+
+p {
+  color: $tert4;
+}
+}
+
+.signup {
+  display: block;
+  background-color: $pri3;
+  color: $tert3;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 5px;
+
+h1 {
+  color: $sec3;
+  font-family: $miso;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  display: block;
+  margin-bottom: 20px;
+  font-family: $miso;
+}
+}
+
+.about {
+  display: block;
+  background-color: $pri2;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 5px;
+
+h1 {
+  font-family: $miso;
+  color: $sec2;
+}
+
+p {
+  color: $tert2;
+}
+}
